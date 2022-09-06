@@ -1,4 +1,4 @@
-// Filename: cmd/api/healtcheck.go
+// Filename: cmd/api/healhtcheck.go
 package main
 
 import (
